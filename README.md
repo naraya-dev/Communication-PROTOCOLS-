@@ -3,7 +3,7 @@
 # 📡 Embedded Communication Protocols Experiment
 _Send DHT20 + Ultrasonic data over UART, I²C, SPI, 1-Wire, Parallel, CAN/LIN (theory), and TCP/UDP/IP. Compare speed, reliability, code/complexity, and wiring._
 
-![status](https://img.shields.io/badge/status-active-brightgreen) ![license](https://img.shields.io/badge/license-MIT-blue)
+![status](https://img.shields.io/badge/status-active-brightgreen) ![license](https://github.com/naraya-dev/Communication-PROTOCOLS-/edit/main/README.md#-repo-structure)
 
 ## ✨ Highlights
 - Read sensors: **DHT20 (temp/humidity over I²C)** and **HC-SR04 (ultrasonic distance)**
